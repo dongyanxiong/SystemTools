@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">系统工具箱</string>
+
+    <string name="about_me">关于作者</string>
+    <string name="baidu">百度</string>
+    <string name="google">谷歌</string>
+</resources>
